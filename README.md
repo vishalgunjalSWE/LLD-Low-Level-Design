@@ -1,18 +1,5 @@
-![CONSOLEBUSTERS](https://res.cloudinary.com/dkbtmzdtt/image/upload/v1708107396/MYYYYYY/LLD_SUPRA_1.0_dowsdm.png)
+<!-- ![CONSOLEBUSTERS](https://media.geeksforgeeks.org/wp-content/uploads/20230203171453/LLD-Banner.png)
 
-# Course mentors are Love Babbar & Lakshay Kumar Bhaiya
-
-Low Level Design `LLD SUPRA 1.0` course represented by [The code help](https://www.thecodehelp.in)
-
-Our instructors of `LLD SUPRA 1.0` course are [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/)
-
-## LLD SUPRA 1.0 PDF NOTES IN JAVA
-
-In this repository, you will get each and every class's notes `except basics of java` in the form of `PDF` with `good explanation`.
-
-You can also join our `Discord Channel` [Console Busters](https://discord.gg/naQUPVWvSs) to get the notes and help to each others by sharing our knowledge.
-
-Please support on `Youtube Channel` [Console Busters](https://www.youtube.com/@ConsoleBusters) via subscribe to watch our doubts and much more.
 
 # Basics of Java
 
@@ -80,4 +67,4 @@ This section covers topics related to Object-Oriented Analysis and Design in Jav
 | 4. Liskov Substitution Principle (LSP)   | [Link](https://drive.google.com/file/d/110ujN-N7tu9GNDO3h8horaQY5Xsblu49/view?usp=sharing) | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/blob/main/4.%20SOLID%20Principles/README4.MD) |
 | 5. Interface Segregation Principle (ISP) | [Link](https://drive.google.com/file/d/1gtF6jpQLMqiWx81r7xhnnMT81gygIB9q/view?usp=sharing) | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/blob/main/4.%20SOLID%20Principles/README5.MD) |
 | 6. Dependency Inversion Principle (DIP)  | [Link](https://drive.google.com/file/d/1NavGN8RTQ1prJRWw7RwdxwF_5fDE3ByD/view?usp=sharing) | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/blob/main/4.%20SOLID%20Principles/README6.MD) |
-
+ -->
