@@ -1,4 +1,4 @@
-<!-- ![CONSOLEBUSTERS](https://media.geeksforgeeks.org/wp-content/uploads/20230203171453/LLD-Banner.png)
+![CONSOLEBUSTERS](https://media.geeksforgeeks.org/wp-content/uploads/20230203171453/LLD-Banner.png)
 
 
 # Basics of Java
@@ -7,8 +7,8 @@ This section covers fundamental concepts and features of Java programming langua
 
 | #   | Topic                          | Read Articles                                                                                                                                                                                                                                                               |
 | --- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.  | Introduction of Java           | [Link](#)                                                                                                                                                                                                                                                                   |
-| 2.  | Java Vs C++                    | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/tree/main/1.%20BASICS%20OF%20JAVA/2.%20Java%20Vs%20C%2B%2B)                                                                                                                                                      |
+| 1.  | Introduction of Java           | [Link](https://github.com/vishalgunjalSWE/LLD-Low-Level-Design/tree/6792197279e4df95975e70c86285d52b3365b537/1.%20BASICS%20OF%20JAVA/1.%20Introduction%20of%20Java)                                                                                                                                                                                                                                                                  |
+<!-- | 2.  | Java Vs C++                    | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/tree/main/1.%20BASICS%20OF%20JAVA/2.%20Java%20Vs%20C%2B%2B)                                                                                                                                                      |
 | 3.  | Java program execution process | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/tree/main/1.%20BASICS%20OF%20JAVA/3.%20Java%20program%20execution%20process)                                                                                                                                     |
 | 4.  | JDK Vs JRE Vs JVM              | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/tree/main/1.%20BASICS%20OF%20JAVA/4.%20JDK%20Vs%20JRE%20Vs%20JVM)                                                                                                                                                |
 | 5.  | Write your first Java program  | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/tree/main/1.%20BASICS%20OF%20JAVA/5.%20Write%20your%20first%20Java%20program)                                                                                                                                    |
@@ -66,5 +66,5 @@ This section covers topics related to Object-Oriented Analysis and Design in Jav
 | 3. Open-Closed Principle (OCP)           | [Link](https://drive.google.com/file/d/1wI7-0sn7m1lgnn4PKcNA1RgG8bktnFt5/view?usp=sharing) | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/blob/main/4.%20SOLID%20Principles/README3.MD) |
 | 4. Liskov Substitution Principle (LSP)   | [Link](https://drive.google.com/file/d/110ujN-N7tu9GNDO3h8horaQY5Xsblu49/view?usp=sharing) | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/blob/main/4.%20SOLID%20Principles/README4.MD) |
 | 5. Interface Segregation Principle (ISP) | [Link](https://drive.google.com/file/d/1gtF6jpQLMqiWx81r7xhnnMT81gygIB9q/view?usp=sharing) | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/blob/main/4.%20SOLID%20Principles/README5.MD) |
-| 6. Dependency Inversion Principle (DIP)  | [Link](https://drive.google.com/file/d/1NavGN8RTQ1prJRWw7RwdxwF_5fDE3ByD/view?usp=sharing) | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/blob/main/4.%20SOLID%20Principles/README6.MD) |
- -->
+| 6. Dependency Inversion Principle (DIP)  | [Link](https://drive.google.com/file/d/1NavGN8RTQ1prJRWw7RwdxwF_5fDE3ByD/view?usp=sharing) | [Link](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/blob/main/4.%20SOLID%20Principles/README6.MD) | -->
+
