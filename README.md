@@ -12,5 +12,6 @@ This section covers fundamental concepts and features of Java programming langua
 | 3.  | Java program execution process | [Link](https://github.com/vishalgunjalSWE/LLD-Low-Level-Design/tree/7e4284d9d8b2a2cc1bf22afab2ef7f1efd9375df/1.%20BASICS%20OF%20JAVA/3.%20Java%20program%20execution%20process)
 | 4.  | JDK Vs JRE Vs JVM              | [Link](https://github.com/vishalgunjalSWE/LLD-Low-Level-Design/tree/bafe29ddcb0c43c82a8eb3f609250af828423c3d/1.%20BASICS%20OF%20JAVA/4.%20JDK%20Vs%20JRE%20Vs%20JVM)                                                                                                                                                |
 | 5.  | Write your first Java program  | [Link](https://github.com/vishalgunjalSWE/LLD-Low-Level-Design/tree/ea9711ae4a04e85405d1c749cb4c8471e4391641/1.%20BASICS%20OF%20JAVA/5.%20Write%20your%20first%20Java%20program)                                                                                                                                    |
+| 6.  | Variables in Java              | [Link](https://github.com/vishalgunjalSWE/LLD-Low-Level-Design/tree/bf6fb917e9e26109876c547fabd65cd662c1e3e3/1.%20BASICS%20OF%20JAVA/6.%20Variables%20in%20Java)                                                                                                                                                    |
 
 
