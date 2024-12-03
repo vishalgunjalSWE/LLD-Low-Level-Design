@@ -16,10 +16,10 @@ public class Student {
     }
 
     // Copy constructor
-    // sourceObj: it represent the manojObj
+    // sourceObj: it represent the vishalObj
     public Student(Student sourceObj){
         System.out.println("Student copy CTOR is called!!");
-        // Initialize the member variable through manojObj
+        // Initialize the member variable through vishalObj
         this.id = sourceObj.id;
         this.name = sourceObj.name;
         this.age = sourceObj.age;

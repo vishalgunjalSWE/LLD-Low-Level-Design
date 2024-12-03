@@ -1,11 +1,11 @@
 public class App {
     public static void main(String[] args) throws Exception {
         // Parameterized CTOR
-        Student manojObj = new Student(123, "Manoj", 24, 5);
-        manojObj.study();
+        Student vishalObj = new Student(287, "Vishal", 23, 5);
+        vishalObj.study();
 
         // Copy CTOR
-        Student rahulObj = new Student(manojObj);
+        Student rahulObj = new Student(vishalObj);
         rahulObj.study();
     }
 }
