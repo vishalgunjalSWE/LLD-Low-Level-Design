@@ -1,6 +1,6 @@
 # Introduction to OOPS
 
-## 1. Why OOPS `Object Oriented Programming`
+## 1. Why OOP'S `Object Oriented Programming`
 
 OOPS was developed because of limitations were discovered in earlier approaches to
 programming.
